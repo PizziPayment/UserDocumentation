@@ -3,7 +3,7 @@
 ## Comment accéder au logiciel commerçant Pizzi
 
 Dans le cadre de la bêta vous pouvez accéder directement au logiciel commerçant
-via le lien suivant: \url{https://pizzi-webapp.netlify.app}.
+via le lien suivant: \url{https://pizziapp.netlify.app}.
 
 Le logiciel est une application web car il peut être embarqué sur des
 ordinateurs ou des tablettes sans importance concernant la version.
