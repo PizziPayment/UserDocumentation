@@ -1,6 +1,6 @@
 # Liens utiles
 
-Si vous souhaitez consulter notre site vitrine ou nous communiquons sur le projet, voici le lien : https://pizzipayment.netlify.app/#/
+Si vous souhaitez consulter notre site vitrine ou nous communiquons sur le projet, voici le lien: \url{https://pizzipayment.netlify.app/#/}
 
 Si vous cherchez à accéder au logiciel commerçant, vous pouvez utiliser le lien suivant : https://pizziapp.netlify.app
 
