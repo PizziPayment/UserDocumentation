@@ -11,8 +11,8 @@ traiter et de récupérer la donnée dynamiquement.
 Afin d'avoir une vision d'ensemble voici un schéma haut niveau de l'architecture avec les differents produits que nous proposons. Les flèches représentent les interactions entre chacuns.
 
 \begin{figure}[H]
-  \centering
-  \includegraphics[width=\textwidth]{resources/project-architecture.png}
-  \caption{Schéma de l'architecture globale du projet Pizzi}
-  \label{fig:project-architecture}
+	\centering
+	\input{src/project-architecture.tex}
+	\caption{Schéma de l'architecture globale du projet Pizzi}
+	\label{fig:project-architecture}
 \end{figure}
