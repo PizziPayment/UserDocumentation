@@ -406,6 +406,23 @@ Android, il suffit de rester appuyé sur l'icône de l'application sur votre
   \label{fig:mobile-app-uninstall}
 \end{figure}
 
+## Les questions fréquemment posées (FAQ)
+### Comment je peux me créer un compte Pizzi ?
+Tout d'abord vous devez vous installer [l'application mobile Pizzi](#installation-de-lapplication-mobile-pas-à-pas) afin de vous y inscrire dessus directement.
+Ensuite, ouvrez l'application mobile pour créer un compte client en suivant ce [tutoriel](#comment-je-peux-me-créer-un-compte-pizzi).
+
+### Que se passe t-il lorsque je supprime mon compte Pizzi ?
+Votre compte ainsi que toutes vos données seront supprimés. Pizzi gardera seulement les données des tickets partagés avec d'autres utilisateurs.
+
+### Comment les tickets de caisse s'ajoutent sur l'application ?
+Lorsque vous réalisez un paiement, vous recevez un ticket de caisse en temps normal.
+Avec Pizzi, une fois que vous payez vos articles, vous pouvez recevoir un ticket de caisse numérisé en scannant le QR code sur le terminal de paiement électronique.
+Pour plus d'information à ce sujet, consultez [ce tutoriel](#comment-les-tickets-de-caisse-sajoute-sur-lapplication).
+
+### Comment puis-je réaliser un retour de produit sans de ticket physique ?
+Votre ticket numérique présent sur l'application mobile Pizzi équivaut légalement au ticket de caisse physique.
+En présentant celui-ci sur votre smartphone au commerçant, vous pouvez faire valoir vos droits de rétractation.
+
 ## Conclusion
 
 Nous espérons que ce document vous a été utile et a réussi à vous guider dans
@@ -420,3 +437,8 @@ venir.
 Merci de votre confiance,
 \newline
 L'équipe Pizzi.
+
+## Liens Utils
+- [Installer l'application mobile Android](https://expo.dev/artifacts/eas/8hFMQZEr6JoaiHKV6mSpwx.apk)
+- [Le logiciel commerçant](https://pizziapp.netlify.app/login)
+- [Le site vitrine](https://pizzipayment.netlify.app)
