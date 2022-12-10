@@ -437,8 +437,3 @@ venir.
 Merci de votre confiance,
 \newline
 L'équipe Pizzi.
-
-## Liens Utils
-- [Installer l'application mobile Android](https://expo.dev/artifacts/eas/8hFMQZEr6JoaiHKV6mSpwx.apk)
-- [Le logiciel commerçant](https://pizziapp.netlify.app/login)
-- [Le site vitrine](https://pizzipayment.netlify.app)
