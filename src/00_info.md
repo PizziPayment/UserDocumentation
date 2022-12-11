@@ -81,6 +81,7 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 
 \clearpage
 
+\setcounter{tocdepth}{2}
 \tableofcontents
 
 \clearpage
