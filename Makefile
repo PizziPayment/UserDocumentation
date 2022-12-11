@@ -12,7 +12,8 @@ SOURCES = 00_info.md \
 					02_users.md \
 					03_architecture.md \
 					04_shopkeeper_software.md \
-					05_phone-app.md
+					05_phone-app.md \
+					06_tpe.md
 
 PANDOC_METADATA_OPTIONS = --metadata date="`date -u '+%d / %m / %Y'`"
 PANDOC_OPTIONS = --resource-path $(RESOURCE_PATH) --template $(TEMPLATE_PATH) $(PANDOC_METADATA_OPTIONS) --highlight-style pygments
