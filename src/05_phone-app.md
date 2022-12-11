@@ -35,13 +35,13 @@ Google Chrome: \url{https://expo.dev/artifacts/eas/gnFtpXj77gtpqaunVvd46V.apk}
 \end{figure}
 
 L'application commencera son téléchargement. Vous pourrez trouver l'application
-dans les téléchargements de votre navigateur (\autoref{fig:mobile-app-install-02})
+dans les téléchargements de votre navigateur (\autoref{fig:mobile-app-install-01})
 vous pourrez ensuite l'utiliser.
 \newline
 \newline
 **Note**: Étant donné que c'est une application téléchargée depuis Internet,
 vous devez autoriser Google Chrome à télécharger des applications (voir
-\autoref{fig:mobile-app-download-03}). Si vous ne parvenez pas à avoir le
+\autoref{fig:mobile-app-install-02}). Si vous ne parvenez pas à avoir le
 message vous pouvez donner l'autorisation en vous rendant dans `Paramètres`,
 `Applications`, `Google Chrome`, ensuite aller tout en bas de l'écran et
 appuyez sur `Installation d'applis inconnues`. Ensuite activer la case
