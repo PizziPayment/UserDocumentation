@@ -74,7 +74,21 @@ toutes les fonctionnalités de la plateforme.
 Afin de personnaliser votre logiciel commerçant et d'avoir la main sur votre
 solution vous pouvez vous même enregistrer vos produits ou items en ajoutant un
 prix et un intitulé. Afin d'ajouter un produit, veuillez cliquer sur le bouton
-bleu `Ajouter`. Grâce aux boutons d'actions de la liste vous pourrez également
+bleu `Ajouter`.
+
+Une interface apparaît, il faut ensuite renseigner le nom du produit, le prix et la catégorie. Nous avons ajouté un système
+de couleur afin de personnaliser vos interfaces et faire en sorte que les items soient plus visuels. Vous pouvez choisir la couleur que vous
+souhaitez pour votre nouvel item.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{resources/shopkeeper-software/add-item.png}
+  \caption{Logiciel commerçant - Enregistrer un item dans le registre produit}
+  \label{fig:shopkeeper-software-add-item}
+\end{figure}
+
+Vous pouvez retrouver tous vos items enregistrés dans le tableau contenu dans la page `Registre des produits`
+Grâce aux boutons d'actions de la liste vous pourrez également
 supprimer ou éditer un item pour toute modification que vous souhaitez
 effectuer.
 
@@ -110,10 +124,28 @@ consulter ou retourner un produit de façon dynamique.
 
 Le logiciel Pizzi vous propose des retours de produits interactifs via
 l'application mobile client. Le client sélectionne l'item qu'il veut retourner
-sur son reçu dynamique dans l'application puis vous présente un QR CODE ou un
-identifiant que vous devez rentrer dans la partie `returned product`. Vous
-êtes ensuite libre de choisir la méthode que vous préférez afin de rembourser
-le client.
+sur son reçu dynamique et vous communique le Pizzi ID (l'identifiant du reçu) concerné.
+Vous disposez d'une interface pour enregistrer ce retour produit où vous devez saisir le Pizzi ID pour
+ensuite accéder au produits du reçu concerné.
+Selectionnez le produit et ajouter la raison du retour puis cliquez sur sauvegarder pour terminer l'action.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{resources/shopkeeper-software/create-product-return.png}
+  \caption{Logiciel commerçant - Création d'un retour produit}
+  \label{fig:shopkeeper-create-product-return}
+\end{figure}
+
+Ensuite grâce à l'interface de retour produits, vous pouvez consulter tous vos retours d'une façon simplifiée.
+En cas de doute sur le retour produit vous pouvez directement ouvrir le reçu concerné en
+cliquant sur le retour produit dans le tableau.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{resources/shopkeeper-software/product-return.png}
+  \caption{Logiciel commerçant - Tableau des retours produits}
+  \label{fig:shopkeeper-product-return}
+\end{figure}
 
 ## Édition de son profil
 
@@ -136,14 +168,24 @@ cette page.
 Dans le panneau de gauche sur `Dernières Transactions` vous pouvez retrouver
 toutes vos transactions réalisées via le logiciel Pizzi
 (\autoref{fig:shopkeeper-software-view-transaction}). Vous y retrouverez la
-date, le montant ainsi que le type d'item vendu. Dans une prochaine mise à
-jour, vous y trouverez directement le reçu digital. 
+date, le montant ainsi que le type d'item vendu.
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{resources/shopkeeper-software/view-transactions.png}
   \caption{Logiciel commerçant - Dernières transactions}
   \label{fig:shopkeeper-software-view-transaction}
+\end{figure}
+
+En cliquant directement sur le reçu indiqué vous pouvez consulter le reçu. Nous avons également
+ajouté une fonctionnalité d'export au format PDF directement depuis le reçu.
+Le fichier PDF est ensuite enregistré dans les téléchargements de votre appareil.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{resources/shopkeeper-software/receipt-view.png}
+  \caption{Logiciel commerçant - Consultation d'un reçu}
+  \label{fig:shopkeeper-receipt-view}
 \end{figure}
 
 ## Désintallation / Suppresion de compte
