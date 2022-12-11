@@ -1,6 +1,6 @@
 # Application Mobile (Bêta)
 
-## Installation de l'application mobile pas à pas
+## Installation de l'application mobile pas à pas {#sec:install-mobile-app}
 
 Avant d'installer la bêta de l'application mobile Pizzi assurez-vous d'avoir un
 téléphone Android avec une version Android 12 ou ultérieure d'installer sur
@@ -12,36 +12,40 @@ Google Chrome: \url{https://expo.dev/artifacts/eas/gnFtpXj77gtpqaunVvd46V.apk}
   \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/install_app_01.png}
+    \rectschema[1]{resources/mobile-app/install_app_01.png}{
+        1/7/9/8/L'android package (APK) téléchargé/3
+    }
     \caption{Téléchargement depuis Google Chrome}
     \label{fig:mobile-app-install-01}
   \end{subfigure}
   \hfill
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/install_app_02}
+    \rectschema[1]{resources/mobile-app/install_app_02}{
+        6.5/4/8.4/4.8/Appuyez sur "Paramètres"/2
+    }
     \caption{Popup autorisation}
     \label{fig:mobile-app-install-02}
   \end{subfigure}
   \hfill
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/install_app_03.png}
+    \rectschema[1]{resources/mobile-app/install_app_03.png}{
+        7.7/4.7/9.4/5.3/Case à cocher/3
+    }
     \caption{Autorisation installation depuis Google Chrome}
     \label{fig:mobile-app-install-03}
   \end{subfigure}
-  \caption{Téléchargement de l'application}
-  \label{fig:mobile-app-download}
 \end{figure}
 
 L'application commencera son téléchargement. Vous pourrez trouver l'application
-dans les téléchargements de votre navigateur (\autoref{fig:mobile-app-install-02})
+dans les téléchargements de votre navigateur (\autoref{fig:mobile-app-install-01})
 vous pourrez ensuite l'utiliser.
 \newline
 \newline
 **Note**: Étant donné que c'est une application téléchargée depuis Internet,
 vous devez autoriser Google Chrome à télécharger des applications (voir
-\autoref{fig:mobile-app-download-03}). Si vous ne parvenez pas à avoir le
+\autoref{fig:mobile-app-install-02}). Si vous ne parvenez pas à avoir le
 message vous pouvez donner l'autorisation en vous rendant dans `Paramètres`,
 `Applications`, `Google Chrome`, ensuite aller tout en bas de l'écran et
 appuyez sur `Installation d'applis inconnues`. Ensuite activer la case
@@ -56,14 +60,18 @@ lien déjà télécharger.
   \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/install_app_04}
+    \rectschema[1]{resources/mobile-app/install_app_04}{
+        6.7/4.1/8.4/4.8/Appuyez sur "installer"/3
+    }
     \caption{Popup installation de l'application Pizzi}
     \label{fig:mobile-app-install-04}
   \end{subfigure}
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/install_app_05.png}
+    \rectschema[1]{resources/mobile-app/install_app_05.png}{
+        7/4.1/8.4/4.8/Ouvrez "PizziApp"/3
+    }
     \caption{Popup installation terminée}
     \label{fig:mobile-app-install-05}
   \end{subfigure}
@@ -71,14 +79,17 @@ lien déjà télécharger.
   \label{fig:mobile-app-install}
 \end{figure}
 
-## Inscription
+## Inscription {#sec:account-registration}
 
-Afin de vous inscrire sur l'application mobile passer les écrans de bienvenue
+Afin de vous inscrire sur l'application mobile veuillez passer les écrans de bienvenue
 (\autoref{fig:mobile-app-sign-in-welcome}).
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.3\textwidth]{resources/mobile-app/sign_in_welcome_screen.png}
+  \rectschema[0.3]{resources/mobile-app/sign_in_welcome_screen.png}{
+      2/1.1/4/1.9/Appuyez sur "Passer" pour aller à l'écran de connexion/2,
+      4.9/0.8/9/1.6/Appuyez sur "Suivant" pour voir le prochain écran/3
+  }
   \caption{Application mobile - Écran de bienvenue}
   \label{fig:mobile-app-sign-in-welcome}
 \end{figure}
@@ -90,16 +101,32 @@ votre lecture.
 
 \begin{figure}[H]
   \centering
+  \rectschema[0.3]{resources/mobile-app/connection.png}{
+      0.9/1.8/9.1/2.5/N'hésitez pas à consulter les CGU/2,
+      3.9/0.8/6/1.6/Inscrivez-vous ici/3
+  }
+  \caption{Application mobile - Écran de connexion }
+  \label{fig:mobile-app-sign-in-welcome}
+\end{figure}
+
+Afin de vous inscrire, cliquez sur le bouton `S'inscrire`. L’application va alors vous demander quelques informations vous concernant afin d’approuver votre compte. Pour commencer, rentrer votre nom et prénom. Ensuite, cliquez sur “Continuer”.
+
+\begin{figure}[H]
+  \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_address.png}
+    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_name.png}
     \caption{}
     \label{fig:mobile-app-sign-in-address}
   \end{subfigure}
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_address_fill.png}
+    \rectschema[1]{resources/mobile-app/sign_in_name_fill.png}{
+      1/6.4/9/7.3/Indiquez votre nom ici/2,
+      0.9/5.4/9.1/6.3/Indiquez votre prénom ici/3,
+      1.9/0.8/8.1/1.6/Appuyez sur "Continuer" lorsque les champs sont remplis/3
+    }
     \caption{}
     \label{fig:mobile-app-address-fill}
   \end{subfigure}
@@ -124,7 +151,11 @@ remplis (\autoref{fig:mobile-app-address-fill}), cliquez sur
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_credentials_fill.png}
+    \rectschema[1]{resources/mobile-app/sign_in_credentials_fill.png}{
+      1/6.4/9/7.3/Indiquez votre e-mail ici/2,
+      0.9/4.7/9.1/6.3/Indiquez et confirmez votre mot de passe ici/3,
+      1.9/0.8/8.1/1.6/Finalisez votre inscription ici/3
+    }
     \caption{}
     \label{fig:mobile-app-credentials-fill}
   \end{subfigure}
@@ -165,14 +196,18 @@ réussie, vous arrivez sur l'écran d'accueil de Pizzi.
   \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/connection.png}
+    \rectschema[1]{resources/mobile-app/connection.png}{
+      1/3.8/9/6.5/Connectez-vous en remplissant ici/3
+    }
     \caption{Écran de connexion}
     \label{fig:mobile-app-connexion}
   \end{subfigure}
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/connection_camera_permission_popup.png}
+    \rectschema[1]{resources/mobile-app/connection_camera_permission_popup.png}{
+      1/4.6/9/5.3/Vous pouvez donner les accès à la caméra ici/2
+    }
     \caption{Popup autorisation utilisation caméra}
     \label{fig:mobile-app-connexion-camera-permission}
   \end{subfigure}
@@ -188,18 +223,20 @@ sur `Lorsque vous utilisez l'application`.
 
 ## Les fonctionnalités de l'application
 
-### Recevoir un ticket de caisse
+### Recevoir un ticket de caisse {#sec:receive-receipts}
 
-Sur l'écran d'accueil, vous pouvez effectuer deux actions
-(\autoref{fig:mobile-app-home_screen_menu}).
+Sur l'écran de liste des reçus, vous pouvez apercevoir un bouton en bas à gauche de l'écran. Celui-ci permet de récupérer un reçu en analisant un QR code.
+(\autoref{fig:mobile-app-view-receipts-home}).
 
 \begin{figure}[H]
   \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/home_screen_menu.png}
+    \rectschema[1]{resources/mobile-app/view_receipts.png}{
+      7.8/1.5/9/2.3/Pour récupérer un reçu/2
+    }
     \caption{Application mobile - Écran d'acceuil}
-    \label{fig:mobile-app-home_screen_menu}
+    \label{fig:mobile-app-view-receipts-home}
   \end{subfigure}
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
@@ -212,12 +249,10 @@ Sur l'écran d'accueil, vous pouvez effectuer deux actions
   \label{fig:mobile-app-receive-receipt-screens}
 \end{figure}
 
-La première action est de lier une transaction afin de récupérer le ticket de
-caisse directement depuis votre téléphone. Lorsque vous effectuez un achat vous
+Une fois la transaction lier le ticket de caisse pourra se présenter sur votre téléphone. Lorsque vous effectuez un achat vous
 pouvez utiliser l'application mobile afin de scanner le QR Code sur le terminal
 de paiement électronique du commerçant (voir
-\autoref{fig:mobile-app-scan-qr-code}). Le ticket de caisse apparaîtra ensuite
-sur votre application mobile Pizzi dans la vue `reçus`.
+\autoref{fig:mobile-app-scan-qr-code}).
 
 ### Consulter ses tickets de caisse
 
@@ -228,7 +263,11 @@ C'est ici qu'après une transaction vous pouvez apercevoir vos reçus.
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.3\textwidth]{resources/mobile-app/view_receipts.png}
+  \rectschema[0.3]{resources/mobile-app/view_receipts.png}{
+    0.8/5.8/9.2/7.5/La liste de vos reçus/3,
+    0.5/7.5/9.5/8.1/Les filtres de recherches/1,
+    0.5/8.1/9.5/8.8/Recherchez le nom d'un reçu ici/0
+  }
   \caption{Application mobile - Consulter ses tickets}
   \label{fig:mobile-app-view_receipts}
 \end{figure}
@@ -243,21 +282,28 @@ fonction d'un intervalle de temps.
   \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/view_receipts_filter_01.png}
+    \rectschema[1]{resources/mobile-app/view_receipts_filter_01.png}{
+      1.5/6.5/8.8/7.2/Changer de mois/2,
+      0.9/3/5/3.9/Retour sur l'écran d'avant/3
+    }
     \caption{}
     \label{fig:mobile-app-view-receipts-filter-01}
   \end{subfigure}
   \hfill
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/view_receipts_filter_02.png}
+    \rectschema[1]{resources/mobile-app/view_receipts_filter_02.png}{
+      4.5/5.3/5.5/6.2/Sélectionnez un jour/2
+    }
     \caption{Première date sélectionné (1er août 2022)}
     \label{fig:mobile-app-view-receipts-filter-02}
   \end{subfigure}
   \hfill
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/view_receipts_filter_03}
+    \rectschema[1]{resources/mobile-app/view_receipts_filter_03}{
+      5.5/4.8/6.5/5.5/Puis un second jour/3
+    }
     \caption{Seconde date sélectionner (11 août 2022)}
     \label{fig:mobile-app-view-receipts-filter-03}
   \end{subfigure}
@@ -398,7 +444,9 @@ Android, il suffit de rester appuyé sur l'icône de l'application sur votre
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/uninstall_app_02.png}
+    \rectschema[1]{resources/mobile-app/uninstall_app_02.png}{
+      4/4.8/6/6/Appuyez sur "Désinstaller"/3
+    }
     \caption{}
     \label{fig:mobile-app-uninstall-02}
   \end{subfigure}
