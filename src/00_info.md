@@ -70,9 +70,11 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 | 11/08/2022       | 1.0           | Rémi Poulenard        | Toutes              | Première Version                                                                     |
 | 13/08/2022       | 1.1           | Rémi Poulenard        | Logiciel commerçant | Ajout des images et conclusion                                                       |
 | 13/08/2022       | 1.2           | Valentin Mille        | Application Mobile  | Guide utilisateur                                                                    |
-| 03/12/2022       | 1.3           | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |
-| 08/12/2022       | 1.4           | Rémi Poulenard        | Architecture        | Ajout du schéma d'architecture haut niveau                                           |
-| 08/12/2022       | 1.5           | Rémi Poulenard | Foire aux questions        | Ajout de la section FAQ                                                              |
+| 03/12/2022       | 1.3           | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |                                                   |                                                             |
+| 08/12/2022       | 1.4           | Rémi Poulenard        | Liens utiles        | Ajout de la section liens utiles                                                     |
+| 03/12/2022       | 1.5           | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |
+| 08/12/2022       | 1.6           | Rémi Poulenard        | Architecture        | Ajout du schéma d'architecture haut niveau                                           |
+| 08/12/2022       | 1.7           | Rémi Poulenard | Foire aux questions        | Ajout de la section FAQ                                                              |
 
 \clearpage
 
