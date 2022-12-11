@@ -7,10 +7,10 @@ Il démarre automatiquement lorsqu'il est alimenté.
 
 ## Téléversement du code sur le TPE pas à pas
 
-> ### Prérequis
->
-> Assurez vous d'avoir `vscode` d'installer ainsi que l’extension `PlatformIO`
-> Brancher votre TPE a l'USB de votre ordinateur.
+### Prérequis
+
+Assurez vous d'avoir `vscode` d'installer ainsi que l’extension `PlatformIO`
+Brancher votre TPE a l'USB de votre ordinateur.
 
 Une fois le projet ouvert sur vscode, il vous suffit d'ouvrir l'extension PlatformIO.
 
