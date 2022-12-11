@@ -74,7 +74,7 @@ toutes les fonctionnalités de la plateforme.
 Afin de personnaliser votre logiciel commerçant et d'avoir la main sur votre
 solution vous pouvez vous même enregistrer vos produits ou items en ajoutant un
 prix et un intitulé. Afin d'ajouter un produit, veuillez cliquer sur le bouton
-bleu `Ajouter`.
+`Ajouter`.
 
 Une interface apparaît, il faut ensuite renseigner le nom du produit, le prix et la catégorie. Nous avons ajouté un système
 de couleur afin de personnaliser vos interfaces et faire en sorte que les items soient plus visuels. Vous pouvez choisir la couleur que vous
