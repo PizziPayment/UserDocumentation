@@ -76,6 +76,7 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 | 03/12/2022       | 1.5           | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |
 | 08/12/2022       | 1.6           | Rémi Poulenard        | Architecture        | Ajout du schéma d'architecture haut niveau                                           |
 | 08/12/2022       | 1.7           | Rémi Poulenard | Foire aux questions        | Ajout de la section FAQ                                                              |
+| 11/12/2022       | 1.8           | Rémi Poulenard | Logiciel commerçant        | Correction retour produit et ajout de la consultation de reçu |
 
 \clearpage
 
