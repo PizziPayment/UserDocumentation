@@ -1,6 +1,6 @@
 # Application Mobile (Bêta)
 
-## Installation de l'application mobile pas à pas
+## Installation de l'application mobile pas à pas {#sec:install-mobile-app}
 
 Avant d'installer la bêta de l'application mobile Pizzi assurez-vous d'avoir un
 téléphone Android avec une version Android 12 ou ultérieure d'installer sur
@@ -79,7 +79,7 @@ lien déjà télécharger.
   \label{fig:mobile-app-install}
 \end{figure}
 
-## Inscription
+## Inscription {#sec:account-registration}
 
 Afin de vous inscrire sur l'application mobile veuillez passer les écrans de bienvenue
 (\autoref{fig:mobile-app-sign-in-welcome}).
@@ -154,7 +154,7 @@ remplis (\autoref{fig:mobile-app-address-fill}), cliquez sur
     \rectschema[1]{resources/mobile-app/sign_in_credentials_fill.png}{
       1/6.4/9/7.3/Indiquez votre e-mail ici/2,
       0.9/4.7/9.1/6.3/Indiquez et confirmez votre mot de passe ici/3,
-      1.9/0.8/8.1/1.6/Finaliser votre inscription ici/3
+      1.9/0.8/8.1/1.6/Finalisez votre inscription ici/3
     }
     \caption{}
     \label{fig:mobile-app-credentials-fill}
@@ -223,7 +223,7 @@ sur `Lorsque vous utilisez l'application`.
 
 ## Les fonctionnalités de l'application
 
-### Recevoir un ticket de caisse
+### Recevoir un ticket de caisse {#sec:receive-receipts}
 
 Sur l'écran de liste des reçus, vous pouvez apercevoir un bouton en bas à gauche de l'écran. Celui-ci permet de récupérer un reçu en analisant un QR code.
 (\autoref{fig:mobile-app-view-receipts-home}).
