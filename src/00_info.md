@@ -52,8 +52,8 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 
 - **Titre**: Documentation utilisateur
 - **Objet**: Guide de démarrage de l'écosystème Pizzi
+- **Date de mise à jour**: \today
 - **Auteur**: Groupe Pizzi
-- **Date de mise à jour**: 11 décembre 2022
 - **Email**: 
   - remi.poulenard@epitech.eu
   - valentin.mille@epitech.eu
