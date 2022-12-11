@@ -14,15 +14,27 @@ Il démarre automatiquement lorsqu'il est alimenté.
 
 Une fois le projet ouvert sur vscode, il vous suffit d'ouvrir l'extension PlatformIO.
 
-![platformio](../resources/TPE/platformio_btn.png)
+\begin{figure}[H]
+\centering
+\includegraphics{resources/platformio_btn.png}
+\label{fig:platformio_btn}
+\end{figure}
 
 un panneau s'ouvre, il vous faut sélectionner l'option `Upload`
 
-![platformioAction](../resources/TPE/platformio_actions.png)
+\begin{figure}[H]
+\centering
+\includegraphics{resources/platformio_actions.png}
+\label{fig:platformio_actions}
+\end{figure}
 
 une fenêtre s'ouvre et affiche l’état actuel du téléchargement.
 
-![finish](../resources/TPE/finish_upload.png)
+\begin{figure}[H]
+\centering
+\includegraphics{resources/finish_upload.png}
+\label{fig:finish_upload}
+\end{figure}
 
 une fois le `success` affiché, l'upload est fini, le TPE va redémarrer seul.
 
