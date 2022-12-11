@@ -73,7 +73,7 @@ lien déjà télécharger.
 
 ## Inscription
 
-Afin de vous inscrire sur l'application mobile passer les écrans de bienvenue
+Afin de vous inscrire sur l'application mobile veuillez passer les écrans de bienvenue
 (\autoref{fig:mobile-app-sign-in-welcome}).
 
 \begin{figure}[H]
@@ -90,16 +90,25 @@ votre lecture.
 
 \begin{figure}[H]
   \centering
+  \includegraphics[width=0.3\textwidth]{resources/mobile-app/connection.png}
+  \caption{Application mobile - Écran de connexion }
+  \label{fig:mobile-app-sign-in-welcome}
+\end{figure}
+
+Afin de vous inscrire, cliquez sur le bouton `S'inscrire`. L’application va alors vous demander quelques informations vous concernant afin d’approuver votre compte. Pour commencer, rentrer votre nom et prénom. Ensuite, cliquez sur “Continuer”.
+
+\begin{figure}[H]
+  \centering
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_address.png}
+    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_name.png}
     \caption{}
     \label{fig:mobile-app-sign-in-address}
   \end{subfigure}
   \hspace{3em}
   \begin{subfigure}[t]{0.3\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_address_fill.png}
+    \includegraphics[width=\textwidth]{resources/mobile-app/sign_in_name_fill.png}
     \caption{}
     \label{fig:mobile-app-address-fill}
   \end{subfigure}
