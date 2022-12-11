@@ -53,12 +53,11 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 - **Titre**: Documentation utilisateur
 - **Objet**: Guide de démarrage de l'écosystème Pizzi
 - **Auteur**: Groupe Pizzi
-<<<<<<< HEAD
-- **Email**:
-=======
+
+- # **Email**:
 - **Date de mise à jour**: 11 décembre 2022
-- **Email**: 
->>>>>>> 4168db85be05d7336ef74be3cda4bc68a1af8658
+- **Email**:
+  > > > > > > > 4168db85be05d7336ef74be3cda4bc68a1af8658
   - remi.poulenard@epitech.eu
   - valentin.mille@epitech.eu
   - lilian.verhlac@epitech.eu
@@ -69,7 +68,6 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 
 ## Tableau des révisions
 
-<<<<<<< HEAD
 | **Date**   | **Version** | **Auteur**            | **Section(s)**      | **Commentaires**                                                                     |
 | ---------- | ----------- | --------------------- | ------------------- | ------------------------------------------------------------------------------------ |
 | 07/08/2022 | 0.1         | Mathieu Pointecouteau | Toutes              | Création du template                                                                 |
@@ -77,21 +75,10 @@ l'adresse mail suivante: `pizzi_2023@labeip.epitech.eu`
 | 13/08/2022 | 1.1         | Rémi Poulenard        | Logiciel commerçant | Ajout des images et conclusion                                                       |
 | 13/08/2022 | 1.2         | Valentin Mille        | Application Mobile  | Guide utilisateur                                                                    |
 | 03/12/2022 | 1.3         | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |
-| 08/12/2022 | 1.4         | Rémi Poulenard        | Foire aux questions | Ajout de la section FAQ                                                              |
+| 08/12/2022 | 1.4         | Rémi Poulenard        | Liens utiles        | Ajout de la section liens utiles                                                     |
+| 08/12/2022 | 1.6         | Rémi Poulenard        | Architecture        | Ajout du schéma d'architecture haut niveau                                           |
+| 08/12/2022 | 1.7         | Rémi Poulenard        | Foire aux questions | Ajout de la section FAQ                                                              |
 | 11/12/2022 | 1.3         | Florian Antoine       | TPE                 | Nouvelle documentation pour le TPE                                                   |
-=======
-| **Date**         | **Version**   | **Auteur**            | **Section(s)**      | **Commentaires**                                                                     |
-| ---------------- | ------------- | --------------------  | ----------------    | ----------------------------                                                         |
-| 07/08/2022       | 0.1           | Mathieu Pointecouteau | Toutes              | Création du template                                                                 |
-| 11/08/2022       | 1.0           | Rémi Poulenard        | Toutes              | Première Version                                                                     |
-| 13/08/2022       | 1.1           | Rémi Poulenard        | Logiciel commerçant | Ajout des images et conclusion                                                       |
-| 13/08/2022       | 1.2           | Valentin Mille        | Application Mobile  | Guide utilisateur                                                                    |
-| 03/12/2022       | 1.3           | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |                                                   |                                                             |
-| 08/12/2022       | 1.4           | Rémi Poulenard        | Liens utiles        | Ajout de la section liens utiles                                                     |
-| 03/12/2022       | 1.5           | Mathieu Pointecouteau | Toutes              | Importation dans le template Pizzi de la documentation utilisateur depuis Google Doc |
-| 08/12/2022       | 1.6           | Rémi Poulenard        | Architecture        | Ajout du schéma d'architecture haut niveau                                           |
-| 08/12/2022       | 1.7           | Rémi Poulenard | Foire aux questions        | Ajout de la section FAQ                                                              |
->>>>>>> 4168db85be05d7336ef74be3cda4bc68a1af8658
 
 \clearpage
 
